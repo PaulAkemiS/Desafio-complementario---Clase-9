@@ -1,0 +1,23 @@
+h3{
+    font-size: 35px;
+    font-weight: bold;
+    margin-left: 2rem;
+}
+
+.imagen{
+    width: 25rem;
+    margin: 2rem 0rem 2rem 2rem;
+}
+
+.precio{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 2rem;
+}
+.btnComprar {
+    margin-top: 2rem;
+    margin-bottom: 6rem;
+    margin-left: 2rem;
+    background-color:  #F7B32B;
+    width: 6rem;
+}
